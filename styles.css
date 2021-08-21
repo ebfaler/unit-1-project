@@ -21,6 +21,8 @@ a:hover {
   color: #6633ff;
 }
 
+
+
 /* Section Styles */
 
 .main-nav {
@@ -39,6 +41,7 @@ a:hover {
   margin: 0 auto;
   padding: 0;
 }
+
 
 .nav .name {
     display: block;
